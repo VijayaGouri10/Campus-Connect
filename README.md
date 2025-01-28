@@ -7,9 +7,9 @@
 ## Event Dicovery and management
 # Geetha
 ## Event Dicovery and Search
-#Ravi Teja
-##Real-Time notification and remainder about ongoingand upcoming events
-#Prasanth
-##Deployment and feedback anaylsis
-#Stuthi Kiran
-##Linking map and location of the event
+# Ravi Teja
+## Real-Time notification and remainder about ongoingand upcoming events
+# Prasanth
+## Deployment and feedback anaylsis
+# Stuthi Kiran
+## Linking map and location of the event
